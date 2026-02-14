@@ -57,7 +57,7 @@ User Input > Data Preprocessing > Model Prediction > Probability Output
 Binary Classification 
 
 Target : 
-    0 = Approved 
+    0 = Approved,
     1 = Rejected
 
 Will use the "predict_proba()" function to calculate confidence scores for two potential outcomes.
@@ -65,8 +65,8 @@ Will use the "predict_proba()" function to calculate confidence scores for two p
 
 
 ## Evaluation Metrics
-Accuracy
-Precision
-F1 score
-ROC-AUC Score
+Accuracy,
+Precision,
+F1 score,
+ROC-AUC Score,
 Confusion Matrix
